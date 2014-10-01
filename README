@@ -4,7 +4,7 @@ EMBED is a small MATLAB package accompanying the journal paper:
 
 Lylloff, Oliver, Efren Fernandez-Grande, Elisabet Tiana-Roig, Finn Agerkvist, Martin S. Andersen and Jørgen Hald. "Improving the effciency of deconvolution algorithms for sound source localization." 
 
-The package contains to folders:
+The package contains two folders:
 src/
 	- FFTNNLS.m : FFT-NNLS algorithm
 	- FISTA.m : FISTA algorithm
