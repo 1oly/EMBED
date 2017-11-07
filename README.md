@@ -1,3 +1,5 @@
+**Unmaintained.** Moved to [dtu-act/EMBED](https://github.com/dtu-act/EMBED)
+
 EMBED :: Efficient Methods for BEamforming Deconvolution.
 
 EMBED is a small MATLAB package accompanying the journal paper:
